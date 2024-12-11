@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+}
+
+td, th {
+    border: 1px solid gray
+}
+th {
+    text-align: right
+}
+table{
+    
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    border:5px solid lightcoral;
+}
+td:hover {
+    background-color: azure;
+}
